@@ -1,7 +1,8 @@
 package jihwan.springmvc.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hello.servlet.basic.HelloData;
+
+import jihwan.springmvc.basic.HelloData;
 import org.springframework.util.StreamUtils;
 
 import javax.servlet.ServletException;
